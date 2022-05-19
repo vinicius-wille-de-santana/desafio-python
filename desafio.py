@@ -11,7 +11,7 @@ third_principle=("Simple is better than complex")
 
 # Declare abaixo uma variável chamada am_i_learning e armazene
 # o valor True (tipo boolean).
-am_i_learning=("true")
+am_i_learning=(True)
 
 # Declare abaixo uma variável chamada MyHouseColorIsBlue, porém
 # corrija seu padrão de nomenclatura para o estilo Python (snake_case).
